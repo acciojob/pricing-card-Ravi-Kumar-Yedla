@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+.card{
+	width:200px;
+	height: 400px;
+	border:2px lightgray;
+	padding:100px;
+	background-color:lightgray;
+	box-shadow:content-box;
+}
+
+ #title{
+	font-size:35.5px;
+	 margin-top:0px;
+ }
+.pricing{
+	font-size:20px;
+	margin:0px;
+}
+#button{
+	background-color: #FF8C00;
+	color:white;
+	border:1px solid orange;
+	border-radius:5px;
+	padding:10px;
+	font-size:25px;
+	margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
